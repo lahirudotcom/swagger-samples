@@ -1,4 +1,4 @@
-# swagger-samples
+# swagger-samples-test
 
 The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and 
 computers to discover and understand the capabilities of the service without access to source code, documentation, or 
